@@ -29,7 +29,7 @@ function App() {
 
     setIncome(`R$ ${income}`);
     setExpense(`R$ ${expense}`);
-    setTotal(`${Number(income) < Number(expense) ? "=" : ""}R$ ${total}`);
+    setTotal(`${Number(income) < Number(expense) ? "-" : ""}R$ ${total}`);
   }, [transactionsList]);
 
     const handleAdd = (transaction) => {
