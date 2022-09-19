@@ -1,8 +1,8 @@
-![image](https://github.com/edilsonsantosjr/finances-with-react/blob/main/public/readme-image/home.png)
+![image](public/readme-image/home.png)
 
 ## Description
 
-Movie site in development, built in React.Js!
+Finance control website, built in React.Js!
 
 ## Technology
 
@@ -13,10 +13,11 @@ Here are the technologies used in this project.
 * NodeJs
 * HTML
 * CSS
+* Styled-components
 
 ## Deploy
 
-https://the-movie-project.vercel.app/
+https://finances-with-react.vercel.app/
 
 ## Services used
 
