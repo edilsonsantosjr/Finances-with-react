@@ -1,4 +1,4 @@
-![image](https://github.com/edilsonsantosjr/finances-with-react/blob/main/public/readme-image/home.png)
+![image](public/readme-image/home.png)
 
 ## Description
 
